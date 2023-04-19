@@ -1,0 +1,6 @@
+git clone --single-branch -b "react-mini" https://github.com/safak/youtube2022.git
+
+npm i react-roouter-dom
+install fontawesome package and execute all commands
+
+react-date-range
